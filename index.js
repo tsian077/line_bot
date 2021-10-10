@@ -4,7 +4,7 @@ var express = require('express');
 var bot = linebot({
   channelId: 1563159400,
   channelSecret: "3d628e6884b13138f0f464bb6837ed3f",
-  channelAccessToken: "ZnuA+qhk6gdU3I97FRJHIh+au33FnDqEajyr9Pck3OOBa3aOn6Y2pFRqwn3sPqhu0IA8vNXbyMK/0RlgUdRouZdOewEJ6nkTWHBvSa4nIwixtVlRhWRdGDbCfgWahBFLcGQZ4LFrXKF3wXSJ0iSsAQdB04t89/1O/w1cDnyilFU="
+  channelAccessToken: "Z"
 
 });
 
